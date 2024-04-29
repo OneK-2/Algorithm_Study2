@@ -20,8 +20,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-
-
+|Week1|구현|[백준 - 빙고](https://www.acmicpc.net/problem/2578)|실4|
+|Week1|구현|[백준 - 기적의 매매법](https://www.acmicpc.net/problem/20546)|실5|
+|Week1|완전탐색|[백준 - 숫자야구](https://www.acmicpc.net/problem/2503)|실3|
+|Week1|완전탐색|[백준 - 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|실4|
+|Week1|완전탐색|[백준 - 동전 게임](https://www.acmicpc.net/problem/9079)|실2|
 <br/>
 
 ## 📊 진행 상황
