@@ -20,11 +20,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week1|구현|[백준 - 빙고](https://www.acmicpc.net/problem/2578)|실4|
-|Week1|구현|[백준 - 기적의 매매법](https://www.acmicpc.net/problem/20546)|실5|
-|Week1|완전탐색|[백준 - 숫자야구](https://www.acmicpc.net/problem/2503)|실3|
-|Week1|완전탐색|[백준 - 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|실4|
-|Week1|완전탐색|[백준 - 동전 게임](https://www.acmicpc.net/problem/9079)|실2|
+|Week2|BFS,DFS|[백준 - 상범 빌딩](https://www.acmicpc.net/problem/6593)|골4|
+|Week2|BFS,DFS|[백준 - 토마토](https://www.acmicpc.net/problem/7576)|골5|
+|Week2|이분탐색|[백준 - 암기왕](https://www.acmicpc.net/problem/2776)|실4|
+|Week2|이분탐색|[백준 - 용돈 관리](https://www.acmicpc.net/problem/6236)|실2|
+|Week2|이분탐색|[백준 - 기타 레슨](https://www.acmicpc.net/problem/2343)|실1|
 <br/>
 
 ## 📊 진행 상황
@@ -39,7 +39,8 @@
 
 |   주차    |      날짜       | 이라은 | 이원규 | 허동민 |
 |:-------:|:-------------:|:-----:|:-----:|:-----:|
-| week_01 | 05.01 ~ 05.07 |    |    |    | 
+| week_01 | 05.01 ~ 05.07 |    |  ✅  |    | 
+| week_02 | 05.08 ~ 05.14 |    |    |    | 
 
 
 <br/>
@@ -62,6 +63,11 @@
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
 |Week1| sample | sample | sample |
+|Week1|구현|[백준 - 빙고](https://www.acmicpc.net/problem/2578)|실4|
+|Week1|구현|[백준 - 기적의 매매법](https://www.acmicpc.net/problem/20546)|실5|
+|Week1|완전탐색|[백준 - 숫자야구](https://www.acmicpc.net/problem/2503)|실3|
+|Week1|완전탐색|[백준 - 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|실4|
+|Week1|완전탐색|[백준 - 동전 게임](https://www.acmicpc.net/problem/9079)|실2|
 
   </details>
 <br/>
