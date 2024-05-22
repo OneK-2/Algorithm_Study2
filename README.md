@@ -20,11 +20,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week3|완전탐색|[백준 - 오목](https://www.acmicpc.net/problem/2615)|실1|
-|Week3|분할정복|[백준 - 곱셈](https://www.acmicpc.net/problem/1629)|실1|
-|Week3|DP|[백준 - 암호코드](https://www.acmicpc.net/problem/2011)|골5|
-|Week3|구현/시뮬레이션|[백준 - 톱니바퀴](https://www.acmicpc.net/problem/14891)|골5|
-|Week3|BFS/DFS|[백준 - 알고스팟](https://www.acmicpc.net/problem/1261)|골4|
+|Week3|완전탐색|[백준 - 꽃길](https://www.acmicpc.net/problem/14620)|실2|
+|Week3|완전탐색|[백준 - 유레카이론](https://www.acmicpc.net/problem/10448)|브1|
+|Week3|그리디|[백준 - 수리공 항승](https://www.acmicpc.net/problem/1449)|실3|
+|Week3|구현/시뮬레이션|[백준 - 로봇 청소기](https://www.acmicpc.net/problem/14503)|골5|
+|Week3|그리디|[백준 - 센서](https://www.acmicpc.net/problem/2212)|골5|
 <br/>
 
 ## 📊 진행 상황
@@ -39,9 +39,9 @@
 
 |   주차    |      날짜       | 이라은 | 이원규 | 허동민 |
 |:-------:|:-------------:|:-----:|:-----:|:-----:|
-| week_01 | 05.01 ~ 05.07 |    |  ✅  | ✅   | 
+| week_01 | 05.01 ~ 05.07 |  🔺  |  ✅  | ✅   | 
 | week_02 | 05.08 ~ 05.14 |    | ✅   | ✅   | 
-| week_03 | 05.15 ~ 05.21 |    |    | 🔺   | 
+| week_03 | 05.15 ~ 05.21 | 🔺   |    | 🔺   | 
 
 
 <br/>
@@ -63,6 +63,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week3|완전탐색|[백준 - 오목](https://www.acmicpc.net/problem/2615)|실1|
+|Week3|분할정복|[백준 - 곱셈](https://www.acmicpc.net/problem/1629)|실1|
+|Week3|DP|[백준 - 암호코드](https://www.acmicpc.net/problem/2011)|골5|
+|Week3|구현/시뮬레이션|[백준 - 톱니바퀴](https://www.acmicpc.net/problem/14891)|골5|
+|Week3|BFS/DFS|[백준 - 알고스팟](https://www.acmicpc.net/problem/1261)|골4|
 |Week2|BFS,DFS|[백준 - 상범 빌딩](https://www.acmicpc.net/problem/6593)|골4|
 |Week2|BFS,DFS|[백준 - 토마토](https://www.acmicpc.net/problem/7576)|골5|
 |Week2|이분탐색|[백준 - 암기왕](https://www.acmicpc.net/problem/2776)|실4|
