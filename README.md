@@ -20,11 +20,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week3|완전탐색|[백준 - 꽃길](https://www.acmicpc.net/problem/14620)|실2|
-|Week3|완전탐색|[백준 - 유레카이론](https://www.acmicpc.net/problem/10448)|브1|
-|Week3|그리디|[백준 - 수리공 항승](https://www.acmicpc.net/problem/1449)|실3|
-|Week3|구현/시뮬레이션|[백준 - 로봇 청소기](https://www.acmicpc.net/problem/14503)|골5|
-|Week3|그리디|[백준 - 센서](https://www.acmicpc.net/problem/2212)|골5|
+|Week4|완전탐색|[백준 - 꽃길](https://www.acmicpc.net/problem/14620)|실2|
+|Week4|완전탐색|[백준 - 유레카이론](https://www.acmicpc.net/problem/10448)|브1|
+|Week4|그리디|[백준 - 수리공 항승](https://www.acmicpc.net/problem/1449)|실3|
+|Week4|구현/시뮬레이션|[백준 - 로봇 청소기](https://www.acmicpc.net/problem/14503)|골5|
+|Week4|그리디|[백준 - 센서](https://www.acmicpc.net/problem/2212)|골5|
 <br/>
 
 ## 📊 진행 상황
