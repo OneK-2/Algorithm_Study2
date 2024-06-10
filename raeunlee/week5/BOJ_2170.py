@@ -20,6 +20,7 @@ for j in range(1, n):
     else:
         # 겹치지 않는 경우, 현재까지의 거리를 더함
         dis += end - start
+        # 현재 간격으로 지정해주기
         start = l[j][0]
         end = l[j][1]
 
