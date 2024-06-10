@@ -20,11 +20,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week5|DP|[백준 - 팰린드롬?](https://www.acmicpc.net/problem/10942)|골4|
-|Week5|분할정복|[백준 - 종이의 개수](https://www.acmicpc.net/problem/1780)|실2|
-|Week5|그리디|[백준 - 선긋기](https://www.acmicpc.net/problem/2170)|골5|
-|Week5|투포인타|[백준 - 주몽](https://www.acmicpc.net/problem/1940)|실4|
-|Week5|투포인터|[백준 - 수들의 합 5](https://www.acmicpc.net/problem/2018)|실5|
+|Week6|그리디|[백준 - 행복유치원](https://www.acmicpc.net/problem/13164)|골5|
+|Week6|그리디|[백준 - 최소 회의실 개수](https://www.acmicpc.net/problem/19598)|골5|
+|Week6|완전탐색|[백준 - 부분수열의 합](https://www.acmicpc.net/problem/1182)|실2|
+|Week6|DFS|[백준 - 경로탐색](https://www.acmicpc.net/problem/11403)|실1|
+|Week6|BFS|[백준 - 숨바꼭질](https://www.acmicpc.net/problem/1697)|실1|
 <br/>
 
 ## 📊 진행 상황
@@ -40,10 +40,10 @@
 |   주차    |      날짜       | 이라은 | 이원규 | 허동민 |
 |:-------:|:-------------:|:-----:|:-----:|:-----:|
 | week_01 | 05.01 ~ 05.07 |  🔺  |  ✅  | ✅   | 
-| week_02 | 05.08 ~ 05.14 |    | ✅   | ✅   | 
+| week_02 | 05.08 ~ 05.14 |  ❌  | ✅   | ✅   | 
 | week_03 | 05.15 ~ 05.21 | 🔺   |  🔺  | 🔺   | 
 | week_04 | 05.22 ~ 05.28 | 🔺    |  ✅  | ✅   | 
-| week_05 | 05.29 ~ 06.04 |     |   ✅ | ✅   | 
+| week_05 | 05.29 ~ 06.04 |  ✅    |   ✅ | ✅   | 
 
 
 <br/>
@@ -65,6 +65,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week5|DP|[백준 - 팰린드롬?](https://www.acmicpc.net/problem/10942)|골4|
+|Week5|분할정복|[백준 - 종이의 개수](https://www.acmicpc.net/problem/1780)|실2|
+|Week5|그리디|[백준 - 선긋기](https://www.acmicpc.net/problem/2170)|골5|
+|Week5|투포인타|[백준 - 주몽](https://www.acmicpc.net/problem/1940)|실4|
+|Week5|투포인터|[백준 - 수들의 합 5](https://www.acmicpc.net/problem/2018)|실5|
 |Week4|완전탐색|[백준 - 꽃길](https://www.acmicpc.net/problem/14620)|실2|
 |Week4|완전탐색|[백준 - 유레카이론](https://www.acmicpc.net/problem/10448)|브1|
 |Week4|그리디|[백준 - 수리공 항승](https://www.acmicpc.net/problem/1449)|실3|
