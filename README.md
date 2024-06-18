@@ -20,11 +20,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week6|그리디|[백준 - 행복유치원](https://www.acmicpc.net/problem/13164)|골5|
-|Week6|그리디|[백준 - 최소 회의실 개수](https://www.acmicpc.net/problem/19598)|골5|
-|Week6|완전탐색|[백준 - 부분수열의 합](https://www.acmicpc.net/problem/1182)|실2|
-|Week6|DFS|[백준 - 경로탐색](https://www.acmicpc.net/problem/11403)|실1|
-|Week6|BFS|[백준 - 숨바꼭질](https://www.acmicpc.net/problem/1697)|실1|
+|Week7|구현|[백준 - 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|골4|
+|Week7|그리디|[백준 - 동전0 ](https://www.acmicpc.net/problem/11047)|실4|
+|Week7|DP|[백준 - 동전2 ](https://www.acmicpc.net/problem/2294)|골5|
+|Week7|구현|[백준 - 주사위 굴리기](https://www.acmicpc.net/problem/14499)|골4|
+|Week7|BFS|[백준 - 불](https://www.acmicpc.net/problem/5427)|골4|
 <br/>
 
 ## 📊 진행 상황
@@ -66,6 +66,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week6|그리디|[백준 - 행복유치원](https://www.acmicpc.net/problem/13164)|골5|
+|Week6|그리디|[백준 - 최소 회의실 개수](https://www.acmicpc.net/problem/19598)|골5|
+|Week6|완전탐색|[백준 - 부분수열의 합](https://www.acmicpc.net/problem/1182)|실2|
+|Week6|DFS|[백준 - 경로탐색](https://www.acmicpc.net/problem/11403)|실1|
+|Week6|BFS|[백준 - 숨바꼭질](https://www.acmicpc.net/problem/1697)|실1|
 |Week5|DP|[백준 - 팰린드롬?](https://www.acmicpc.net/problem/10942)|골4|
 |Week5|분할정복|[백준 - 종이의 개수](https://www.acmicpc.net/problem/1780)|실2|
 |Week5|그리디|[백준 - 선긋기](https://www.acmicpc.net/problem/2170)|골5|
