@@ -20,11 +20,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week7|구현|[백준 - 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|골4|
-|Week7|그리디|[백준 - 동전0 ](https://www.acmicpc.net/problem/11047)|실4|
-|Week7|DP|[백준 - 동전2 ](https://www.acmicpc.net/problem/2294)|골5|
-|Week7|구현|[백준 - 주사위 굴리기](https://www.acmicpc.net/problem/14499)|골4|
-|Week7|BFS|[백준 - 불](https://www.acmicpc.net/problem/5427)|골4|
+|Week8|투포인터|[백준 - 부분합 ](https://www.acmicpc.net/problem/1806)|골4|
+|Week8|다익스트라|[백준 - 최소비용 구하기!](https://www.acmicpc.net/problem/1916)|골5|
+|Week8|DP|[프로그래머스 - 사칙연산 ](https://school.programmers.co.kr/learn/courses/30/lessons/1843)|Lv4|
+|Week8|그리디|[프로그래머스 - 섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|Lv3|
+|Week8|BFS|[프로그래머스 - 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|Lv2|
 <br/>
 
 ## 📊 진행 상황
@@ -46,6 +46,7 @@
 | week_05 | 05.29 ~ 06.04 |  ✅    |   ✅ | ✅   | 
 | week_06 | 06.11 ~ 06.17 |  ✅     |  ✅  | ✅   | 
 | week_07 | 06.18 ~ 06.25 |       |    |  ✅  | 
+| week_08 | 06.26 ~ 07.02 |       |    |    | 
 
 <br/>
 
@@ -66,6 +67,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week7|구현|[백준 - 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|골4|
+|Week7|그리디|[백준 - 동전0 ](https://www.acmicpc.net/problem/11047)|실4|
+|Week7|DP|[백준 - 동전2 ](https://www.acmicpc.net/problem/2294)|골5|
+|Week7|구현|[백준 - 주사위 굴리기](https://www.acmicpc.net/problem/14499)|골4|
+|Week7|BFS|[백준 - 불](https://www.acmicpc.net/problem/5427)|골4|
 |Week6|그리디|[백준 - 행복유치원](https://www.acmicpc.net/problem/13164)|골5|
 |Week6|그리디|[백준 - 최소 회의실 개수](https://www.acmicpc.net/problem/19598)|골5|
 |Week6|완전탐색|[백준 - 부분수열의 합](https://www.acmicpc.net/problem/1182)|실2|
