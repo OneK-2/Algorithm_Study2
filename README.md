@@ -20,11 +20,13 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week8|투포인터|[백준 - 부분합 ](https://www.acmicpc.net/problem/1806)|골4|
-|Week8|다익스트라|[백준 - 최소비용 구하기!](https://www.acmicpc.net/problem/1916)|골5|
-|Week8|DP|[프로그래머스 - 사칙연산 ](https://school.programmers.co.kr/learn/courses/30/lessons/1843)|Lv4|
-|Week8|그리디|[프로그래머스 - 섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|Lv3|
-|Week8|BFS|[프로그래머스 - 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|Lv2|
+|Week9|구현|[프로그래머스 - [1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|Lv2|
+|Week9|구현|[프로그래머스 - 최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)|Lv3|
+|Week9|구현|[프로그래머스 -  택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|Lv2|
+|Week9|탐색|[프로그래머스 - 미로탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|Lv2|
+|Week9|SQL|[프로그래머스 - 연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284528)|Lv4|
+|Week9|SQL|[프로그래머스 - 조건에 맞는 사원 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284527)|Lv3|
+|Week9|SQL|[프로그래머스 - 부서별 평균 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529)|Lv3|
 <br/>
 
 ## 📊 진행 상황
@@ -67,6 +69,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week8|투포인터|[백준 - 부분합 ](https://www.acmicpc.net/problem/1806)|골4|
+|Week8|다익스트라|[백준 - 최소비용 구하기!](https://www.acmicpc.net/problem/1916)|골5|
+|Week8|DP|[프로그래머스 - 사칙연산 ](https://school.programmers.co.kr/learn/courses/30/lessons/1843)|Lv4|
+|Week8|그리디|[프로그래머스 - 섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|Lv3|
+|Week8|BFS|[프로그래머스 - 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|Lv2|
 |Week7|구현|[백준 - 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|골4|
 |Week7|그리디|[백준 - 동전0 ](https://www.acmicpc.net/problem/11047)|실4|
 |Week7|DP|[백준 - 동전2 ](https://www.acmicpc.net/problem/2294)|골5|
